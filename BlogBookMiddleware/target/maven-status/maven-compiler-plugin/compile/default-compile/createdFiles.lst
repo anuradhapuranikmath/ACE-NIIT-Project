@@ -1,0 +1,17 @@
+com\niit\blogbook\controller\ErrorController.class
+com\niit\blogbook\errors\ErrorDetail.class
+com\niit\blogbook\controller\BlogController.class
+com\niit\blogbook\controller\BlogCommentController.class
+com\niit\blogbook\controller\GenericRestController.class
+com\niit\blogbook\config\WebInitializer.class
+com\niit\blogbook\controller\BlogLikeDislikeController.class
+com\niit\blogbook\controller\ChatController.class
+com\niit\blogbook\controller\ForumCommentController.class
+com\niit\blogbook\controller\ForumController.class
+com\niit\blogbook\controller\JobController.class
+com\niit\blogbook\controller\NotificationController.class
+com\niit\blogbook\controller\ProfilePicController.class
+com\niit\blogbook\controller\FriendController.class
+com\niit\blogbook\config\WebResolver.class
+com\niit\blogbook\controller\UserController.class
+com\niit\blogbook\config\WebSocketConfig.class
